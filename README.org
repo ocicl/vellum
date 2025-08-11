@@ -4,6 +4,6 @@ Data Frames for Common Lisp
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum.git |
-| commit  | 98efd2b                                        |
+| commit  | 40deb73                                        |
 | systems | vellum                                         |
 |---------+------------------------------------------------|
